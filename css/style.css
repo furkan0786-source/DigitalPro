@@ -1,0 +1,25 @@
+.bg-black {
+  background-color: black;
+}
+
+img {
+  width: 95%;
+  height: 60%;
+}
+.font-div {
+  width: 30%;
+}
+
+/*
+ ////responsive/////
+ */
+
+@media only screen and (min-width: 1198px) {
+  .font-div {
+    padding: 38px 0px !important;
+  }
+}
+
+.card {
+  text-decoration-color: blue;
+}
